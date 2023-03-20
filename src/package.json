@@ -1,0 +1,17 @@
+{
+  "name": "react-table-fixed-columns",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "namor": "1.0.1",
+    "react": "16.12.0",
+    "react-data-table-component": "6.11.5",
+    "react-data-table-component-extensions": "1.5.0",
+    "react-dom": "16.12.0",
+    "react-table": "6.11.4",
+    "react-table-hoc-fixed-columns": "2.3.3",
+    "styled-components": "5.2.0"
+  }
+}
